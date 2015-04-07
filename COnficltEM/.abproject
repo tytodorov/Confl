@@ -1,0 +1,45 @@
+{
+  "ProjectName": "COnficltEM",
+  "ProjectGuid": "4f5b4a33-14f6-48ca-ac62-28ce9cf3fb52",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.COnficltEM",
+  "DisplayName": "COnficltEM",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{654cf46b-1ef4-4d1e-986a-7a5f881fe405}",
+  "WP8ProductID": "{750cd40d-8ebd-4921-b583-be73386c0a81}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.COnficltEM",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
