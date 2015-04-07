@@ -11,7 +11,7 @@
 **/__MACOSX/**/*
 
 # Visual Studio files
-bin/**/*
+bin/**/*1
 obj/**/*
 **/*.obj
 **/*.pdb
